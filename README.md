@@ -1,24 +1,12 @@
-# Welcome to your Lovable project
+# Welcome to your Nozim project
 
-## Project info
+## Live Demo Project
 
-**URL**: https://lovable.dev/projects/17b1fdc0-5afb-40ea-b7b1-9e26b8ce11ab
+<img width="444" height="467" alt="image" src="https://github.com/user-attachments/assets/24fef300-180a-4c7b-a535-5168eceb8c50" />
 
-## How can I edit this code?
+ <a aligin='center' href="https://instamessage.vercel.app/"><strong>➥ Live Demo Instagram Clone</strong></a>
 
-There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/17b1fdc0-5afb-40ea-b7b1-9e26b8ce11ab) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
@@ -60,14 +48,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+### License
 
-Simply open [Lovable](https://lovable.dev/projects/17b1fdc0-5afb-40ea-b7b1-9e26b8ce11ab) and click on Share -> Publish.
+This project is **free to use** and does not contains any license.
 
-## Can I connect a custom domain to my Lovable project?
+### Please only open issues for actual bugs, feature requests or discussions should happen in Discussions or via my email.
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Contact Email: roziyevnozim43@gmail.com
