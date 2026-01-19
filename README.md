@@ -2,7 +2,8 @@
 
 ## Live Demo Project
 
-<img width="444" height="467" alt="image" src="https://github.com/user-attachments/assets/24fef300-180a-4c7b-a535-5168eceb8c50" />
+<img width="1364" height="633" alt="image" src="https://github.com/user-attachments/assets/4d7e7303-7ccf-42d4-8d13-3716b314b389" />
+
 
  <a aligin='center' href="https://instamessage.vercel.app/"><strong>➥ Live Demo Instagram Clone</strong></a>
 
