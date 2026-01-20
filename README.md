@@ -1,3 +1,5 @@
+<div aligin='center'> 
+
 # Welcome to your Nozim project
 
 ## Live Demo Project
@@ -7,7 +9,7 @@
 
  <a aligin='center' href="https://instamessage.vercel.app/"><strong>➥ Live Demo Instagram Clone</strong></a>
 
-
+</div>
 
 Follow these steps:
 
