@@ -27,9 +27,9 @@ npm i
 npm run dev
 ```
 
-## Add .env
+##Create a `.env` file:
 
-```
+```env
 VITE_SUPABASE_PROJECT_ID=""
 VITE_SUPABASE_PUBLISHABLE_KEY=""
 VITE_SUPABASE_URL=""
